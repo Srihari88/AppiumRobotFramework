@@ -31,9 +31,9 @@ ${UserEmail2}			XXXXXX
 ${UserEmail3}			XXXXXX
 ${User_Password}		XXXXXX
 
-${VerifyAddessBitGlass}			XXXXXX
-${VerifyAddessBitGlass2}		XXXXXX
-${VerifyAddessBitGlass3}	        XXXXXX
+${VerifyAddess}			XXXXXX
+${VerifyAddess}		XXXXXX
+${VerifyAddess}	        XXXXXX
 
 
 
