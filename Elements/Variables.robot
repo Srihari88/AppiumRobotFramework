@@ -109,7 +109,7 @@ ${Verify_Server_Error}			com.google.android.gm:id/setup_error_label
 
 # These are variables of the third test cases.
 
-${Excpect_Text}			To configure your account, Gmail is being asked to send account info to https://autodiscover-s.outlook.com/autodiscover/autodiscover.xml. Is this OK?
+${Excpect_Text}			To configure your account, Gmail is being asked to send account info to https://autodiscover-s..com/autodiscover/.xml. Is this OK?
 
 ${Popup_Text}			android:id/message
 
@@ -127,7 +127,7 @@ ${Dispaly_Account}		com.google.android.gm:id/account_display_name
 
 # Mobile setting and verify the incomeing emails
 ${incoming}			android:id/summary
-${Email_bitglass}		xpath=//android.widget.TextView[@text='XXXXXX']
+${Email_s}		xpath=//android.widget.TextView[@text='XXXXXX']
 ${Press_IncomingSettings}	xpath=//android.widget.TextView[@text='Incoming settings']
 
 # Mobile account settings
@@ -149,7 +149,7 @@ ${Done}				com.google.android.gm:id/done
 
 
 # Second email address elements
-${Email_second_Bigglass}		xpath=//android.widget.TextView[@text='XXXXXX']
+${Email_second_Bi}		xpath=//android.widget.TextView[@text='XXXXXX']
 
 
 # Allow Gmail to login
